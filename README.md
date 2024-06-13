@@ -28,7 +28,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/note-app.git
+   git clone https://github.com/aboodeemh1111/note-app.git
    cd note-app
 Install Dependencies:
 
