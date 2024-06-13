@@ -1,0 +1,18 @@
+# React Native
+node_modules/
+# Android
+android/.gradle/
+android/app/build/
+# iOS
+ios/Pods/
+ios/build/
+# macOS
+macos/Pods/
+macos/build/
+# Expo
+.expo/
+web-build/
+# dotenv environment variables file
+.env
+.DS_Store
+*.log
