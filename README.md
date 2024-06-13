@@ -32,8 +32,7 @@ Follow these steps to run the project locally:
    cd note-app
 Install Dependencies:
 
-sh
-Copy code
+
 npm install
 Set Up Environment Variables:
 
@@ -41,16 +40,20 @@ Create a .env file in the root directory and add your environment variables as n
 Run the Application:
 
 For iOS:
-sh
-Copy code
+
 npx pod-install
 npx react-native run-ios
+
+
 For Android:
-sh
-Copy code
 npx react-native run-android
+
+
+
 Usage
 Add a Note:
+
+
 
 Open the app and click on the "Add Note" button.
 Enter the title and content of your note.
